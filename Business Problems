@@ -1,142 +1,151 @@
-# 🚖 Ride Booking Analytics Project
+# 🚖 Ola Ride Booking Analytics
 
-<div align="center">
-
-## 📊 Business Problem Statement
-
-*Transforming Ride Booking Data into Actionable Business Intelligence*
+> An end-to-end Data Analytics project focused on analyzing ride booking operations using **SQL** and **Power BI** to generate actionable business insights.
 
 ---
 
-</div>
+## 📌 Project Overview
 
-# 🌟 Project Overview
+The ride-booking industry generates massive volumes of real-time operational and customer data every day. This project aims to analyze booking patterns, customer behavior, ride cancellations, revenue trends, and service quality metrics to help improve overall business performance.
 
-A rapidly growing ride-booking company is generating massive amounts of operational and customer data every day. While the business continues to expand across multiple vehicle categories and payment platforms, several operational challenges have started impacting efficiency and customer satisfaction.
-
-The company wants to leverage **SQL Analytics** and **Power BI Dashboards** to uncover meaningful insights from ride-booking data and improve strategic decision-making.
+Using **SQL** for data analysis and **Power BI** for dashboard visualization, this project transforms raw ride-booking data into meaningful insights for strategic decision-making.
 
 ---
 
-# 🎯 Business Goals
+# 🎯 Business Objectives
 
-✅ Improve customer experience  
-✅ Reduce ride cancellations  
-✅ Monitor driver performance  
-✅ Track revenue growth  
-✅ Analyze booking trends  
-✅ Optimize operational efficiency  
-✅ Build interactive business dashboards  
+- Analyze ride booking trends and operational performance
+- Monitor successful and cancelled rides
+- Identify top-performing vehicle categories
+- Track customer and driver satisfaction ratings
+- Analyze revenue across payment methods
+- Understand ride cancellation reasons
+- Build interactive dashboards for stakeholders
 
 ---
 
-# 🧩 Key Business Challenges
+# 🛠 Tech Stack
 
-| Problem Area | Description |
+| Tool | Purpose |
 |---|---|
-| 🚫 Ride Cancellations | Frequent cancellations affecting customer trust |
-| ⭐ Customer Satisfaction | Inconsistent ratings across vehicle types |
-| 💰 Revenue Tracking | Difficulty analyzing revenue streams |
-| 🚗 Vehicle Performance | Need to identify high-performing vehicle categories |
-| 👨‍✈️ Driver Analysis | Monitoring driver ratings and service quality |
-| 📈 Demand Monitoring | Understanding ride demand trends over time |
+| SQL | Data Querying & Analysis |
+| Power BI | Dashboard & Visualization |
+| Excel / CSV | Dataset |
+| DAX | KPI Calculations |
 
 ---
 
-# 🗄 SQL Business Questions
+# 🗂 Dataset Features
 
-## 🔍 Booking & Operational Analysis
+The dataset contains information related to:
 
-### 1️⃣ Retrieve all successful bookings
-Understand completed ride performance and operational success.
-
-### 2️⃣ Find the average ride distance for each vehicle type
-Analyze customer travel behavior across ride categories.
-
-### 3️⃣ Get the total number of cancelled rides by customers
-Measure customer-side cancellation trends.
-
-### 4️⃣ List the top 5 customers who booked the highest number of rides
-Identify highly engaged and valuable customers.
-
-### 5️⃣ Get the number of rides cancelled by drivers due to personal and car-related issues
-Evaluate operational and driver-related challenges.
-
-### 6️⃣ Find the maximum and minimum driver ratings for Prime Sedan bookings
-Track service quality for premium ride categories.
-
-### 7️⃣ Retrieve all rides where payment was made using UPI
-Analyze preferred digital payment methods.
-
-### 8️⃣ Find the average customer rating per vehicle type
-Compare customer satisfaction across services.
-
-### 9️⃣ Calculate the total booking value of rides completed successfully
-Measure total business revenue generated.
-
-### 🔟 List all incomplete rides along with the reason
-Identify operational gaps and ride failure causes.
+- Customer bookings
+- Ride status
+- Vehicle types
+- Payment methods
+- Ride distance
+- Driver ratings
+- Customer ratings
+- Booking value
+- Cancellation reasons
 
 ---
 
-# 📊 Power BI Dashboard Requirements
+# 📊 SQL Analysis Questions
 
-## 📈 Dashboard KPIs & Visualizations
+### 1. Retrieve all successful bookings
 
-| Dashboard Metric | Business Purpose |
+### 2. Find the average ride distance for each vehicle type
+
+### 3. Get the total number of cancelled rides by customers
+
+### 4. List the top 5 customers who booked the highest number of rides
+
+### 5. Get the number of rides cancelled by drivers due to personal and car-related issues
+
+### 6. Find the maximum and minimum driver ratings for Prime Sedan bookings
+
+### 7. Retrieve all rides where payment was made using UPI
+
+### 8. Find the average customer rating per vehicle type
+
+### 9. Calculate the total booking value of rides completed successfully
+
+### 10. List all incomplete rides along with the reason
+
+---
+
+# 📈 Power BI Dashboard Requirements
+
+The dashboard provides interactive insights into ride-booking operations through the following KPIs and visualizations:
+
+| Dashboard Visualization | Description |
 |---|---|
-| 🚖 Ride Volume Over Time | Analyze booking growth trends |
-| 📌 Booking Status Breakdown | Compare successful vs cancelled rides |
-| 🏆 Top 5 Vehicle Types by Ride Distance | Identify high-usage vehicle categories |
-| ⭐ Average Customer Ratings by Vehicle Type | Measure service quality |
-| ❌ Cancelled Ride Reasons | Detect major cancellation causes |
-| 💳 Revenue by Payment Method | Track revenue channels |
-| 👑 Top 5 Customers by Total Booking Value | Identify high-value customers |
-| 🛣 Ride Distance Distribution Per Day | Understand travel patterns |
-| 🚗 Driver Ratings Distribution | Evaluate driver performance |
-| ⚖ Customer vs Driver Ratings | Compare service experience perspectives |
+| Ride Volume Over Time | Analyze booking trends over time |
+| Booking Status Breakdown | Compare successful and cancelled rides |
+| Top 5 Vehicle Types by Ride Distance | Identify high-performing vehicle categories |
+| Average Customer Ratings by Vehicle Type | Analyze customer satisfaction |
+| Cancelled Ride Reasons | Understand cancellation patterns |
+| Revenue by Payment Method | Track payment-based revenue |
+| Top 5 Customers by Total Booking Value | Identify valuable customers |
+| Ride Distance Distribution Per Day | Analyze travel behavior |
+| Driver Ratings Distribution | Monitor driver performance |
+| Customer vs Driver Ratings | Compare service experience |
 
 ---
 
-# 🛠 Technologies Used
+# 📌 Key Business Insights
 
-<div align="center">
-
-| Technology | Purpose |
-|---|---|
-| 🗃 SQL | Data Extraction & Analysis |
-| 📊 Power BI | Dashboard & Visualization |
-| 📑 Excel / CSV | Dataset Source |
-| 📈 DAX | KPI Calculations |
-
-</div>
+- Identify operational inefficiencies
+- Reduce ride cancellation rates
+- Improve customer experience
+- Monitor driver service quality
+- Optimize revenue generation strategies
+- Enable data-driven business decisions
 
 ---
 
 # 🚀 Expected Outcomes
 
-After implementing this solution, the company will be able to:
+After completing this project, the business can:
 
-- 📌 Improve operational efficiency
-- 📌 Increase customer satisfaction
-- 📌 Reduce cancellation rates
-- 📌 Monitor revenue trends effectively
-- 📌 Enhance driver performance tracking
-- 📌 Enable data-driven business decisions
-- 📌 Build scalable analytical dashboards
-
----
-
-# 📍 Final Conclusion
-
-This project demonstrates how modern analytics tools like **SQL** and **Power BI** can transform raw ride-booking data into meaningful business insights.
-
-By combining data analysis, dashboard visualization, and KPI tracking, the organization can make smarter decisions, optimize operations, and deliver a better customer experience.
+✅ Improve operational efficiency  
+✅ Enhance customer satisfaction  
+✅ Optimize ride allocation strategies  
+✅ Increase revenue visibility  
+✅ Improve driver performance tracking  
+✅ Build scalable reporting dashboards  
 
 ---
 
-<div align="center">
+# 📷 Dashboard Preview
 
-## ✨ End of Business Problem Statement ✨
+> Add your Power BI dashboard screenshots here
 
-</div>
+```md
+![Dashboard Preview](dashboard.png)
+```
+
+---
+
+# 📂 Project Structure
+
+```bash
+Ride-Booking-Analytics/
+│
+├── Dataset/
+├── SQL Queries/
+├── Power BI Dashboard/
+├── Screenshots/
+└── README.md
+```
+
+---
+
+# 📍 Conclusion
+
+This project demonstrates how SQL and Power BI can be used together to solve real-world business problems in the ride-booking industry. By leveraging analytics and visualization, businesses can gain deeper insights into customer behavior, operational performance, and revenue trends.
+
+---
+
+# ⭐ If you like this project, consider giving it a star!
