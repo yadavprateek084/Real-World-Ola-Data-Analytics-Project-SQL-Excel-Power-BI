@@ -254,29 +254,14 @@ The Power BI report is structured across **5 dedicated pages**, each targeting a
 
 ## 📸 Screenshots
 
-<table>
-  <tr>
-    <td align="center"><strong>Overall Dashboard</strong></td>
-  </tr>
-  <tr>
-    <td><img src="<img width="865" height="480" alt="overall_dashboard" src="https://github.com/user-attachments/assets/4385a0ad-ac35-47b8-a2ef-f7e2057f2c9f" />
-" alt="Overall" width="400"/></td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Revenue Dashboard</strong></td>
-  </tr>
-  <tr>
-    <td><img src="<img width="882" height="496" alt="revenue" src="https://github.com/user-attachments/assets/9dfd8993-7903-430d-bef2-a1c5c6b845d3" />
-" alt="Revenue" width="400"/></td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2"><strong>Ratings Dashboard</strong></td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2"><img src="<img width="884" height="488" alt="ratings" src="https://github.com/user-attachments/assets/4724fd23-2ebf-4864-b6dc-58b91b8089ca" />
-" alt="Ratings" width="400"/></td>
-  </tr>
-</table>
+
+<img width="865" height="480" alt="overall_dashboard" src="https://github.com/user-attachments/assets/45ebbd10-8aaf-4e73-9b85-6348ce9bed4a" />
+<img width="884" height="492" alt="cancellation" src="https://github.com/user-attachments/assets/fb1ac0d3-6ab9-48da-a11e-66c11cb94794" />
+
+<img width="871" height="485" alt="vehicle_type" src="https://github.com/user-attachments/assets/720a533e-f8ce-43ab-a7d5-a3b5b5afd50b" />
+<img width="882" height="496" alt="revenue" src="https://github.com/user-attachments/assets/ce09609d-75e2-4390-b380-f7d174453ff1" />
+<img width="884" height="488" alt="ratings" src="https://github.com/user-attachments/assets/9fcbacd1-751e-40cc-a71f-9aa85fbd4a7a" />
+
 
 ---
 
