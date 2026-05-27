@@ -247,9 +247,6 @@ The Power BI report is structured across **5 dedicated pages**, each targeting a
 5. **E-Bike and Prime Sedan** deliver the best combination of booking value and distance efficiency
 6. **Customer loyalty is concentrated** — a small segment drives outsized revenue, making retention programs a high-ROI opportunity
 
-
-
-
 ---
 
 ## 📸 Screenshots
@@ -265,37 +262,6 @@ The Power BI report is structured across **5 dedicated pages**, each targeting a
 
 ---
 
-## ⚙️ Setup & Usage
-
-### Prerequisites
-
-- PostgreSQL 13+ or any SQL-compatible RDBMS
-- Power BI Desktop (free) — [Download here](https://powerbi.microsoft.com/desktop/)
-
-### Steps
-
-**1. Database Setup**
-```bash
-# Connect to your PostgreSQL instance
-psql -U your_username -d your_database
-
-# Run the SQL script
-\i sql/ola.sql
-```
-
-**2. Load Data**
-```sql
--- Import the CSV into the booking table
-COPY booking FROM '/path/to/ola_bookings.csv' DELIMITER ',' CSV HEADER;
-```
-
-**3. Power BI**
-- Open `powerbi/ola_dashboard.pbix` in Power BI Desktop
-- Update the data source connection to your PostgreSQL instance
-- Refresh the data model
-- Explore the 5-page interactive report
-
----
 
 ## 🚀 Future Improvements
 
@@ -317,17 +283,5 @@ This project demonstrates a complete, production-style analytics workflow — fr
 The project reflects skills directly applicable to roles in **Data Analytics, Business Intelligence, and Operations Analytics** — including SQL, DAX, dashboard design, and business storytelling.
 
 ---
-
-<div align="center">
-
----
-
-**Built with 🖤 by a Data Analyst who believes in making data speak business.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](/)
-
-*⭐ If this project added value, consider starring the repo — it helps others discover it.*
 
 </div>
