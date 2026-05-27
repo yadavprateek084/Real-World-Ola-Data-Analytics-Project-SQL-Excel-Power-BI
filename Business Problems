@@ -1,9 +1,13 @@
 # 🚖 Business Problem Statement – Ride Booking Analytics
 
 ## 📌 Overview
-A leading ride-booking company aims to enhance its operational efficiency, customer satisfaction, and overall business performance by leveraging data-driven insights. With thousands of rides occurring daily across multiple vehicle categories and payment methods, the company requires a comprehensive analytical solution to monitor trends, identify challenges, and optimize decision-making.
+A leading ride-booking company aims to enhance its operational efficiency, customer satisfaction, and overall business performance by
+leveraging data-driven insights. With thousands of rides occurring daily across multiple vehicle categories and payment methods,
+the company requires a comprehensive analytical solution to monitor trends, identify challenges, and optimize decision-making.
 
-The organization faces challenges related to ride cancellations, inconsistent customer experiences, revenue tracking, driver performance monitoring, and demand analysis. To address these issues, the company intends to utilize SQL for data extraction and analysis, along with Power BI for interactive dashboard visualization and business reporting.
+The organization faces challenges related to ride cancellations, inconsistent customer experiences, revenue tracking, driver performance
+monitoring, and demand analysis. To address these issues, the company intends to utilize SQL for data extraction and analysis, along with
+Power BI for interactive dashboard visualization and business reporting.
 
 ---
 
