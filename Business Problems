@@ -20,26 +20,26 @@ The company wants to leverage **SQL Analytics** and **Power BI Dashboards** to u
 
 # 🎯 Business Goals
 
-✅ Improve customer experience
-✅ Reduce ride cancellations
-✅ Monitor driver performance
-✅ Track revenue growth
-✅ Analyze booking trends
-✅ Optimize operational efficiency
-✅ Build interactive business dashboards
+✅ Improve customer experience  
+✅ Reduce ride cancellations  
+✅ Monitor driver performance  
+✅ Track revenue growth  
+✅ Analyze booking trends  
+✅ Optimize operational efficiency  
+✅ Build interactive business dashboards  
 
 ---
 
 # 🧩 Key Business Challenges
 
-| Problem Area            | Description                                         |
-| ----------------------- | --------------------------------------------------- |
-| 🚫 Ride Cancellations   | Frequent cancellations affecting customer trust     |
-| ⭐ Customer Satisfaction | Inconsistent ratings across vehicle types           |
-| 💰 Revenue Tracking     | Difficulty analyzing revenue streams                |
-| 🚗 Vehicle Performance  | Need to identify high-performing vehicle categories |
-| 👨‍✈️ Driver Analysis   | Monitoring driver ratings and service quality       |
-| 📈 Demand Monitoring    | Understanding ride demand trends over time          |
+| Problem Area | Description |
+|---|---|
+| 🚫 Ride Cancellations | Frequent cancellations affecting customer trust |
+| ⭐ Customer Satisfaction | Inconsistent ratings across vehicle types |
+| 💰 Revenue Tracking | Difficulty analyzing revenue streams |
+| 🚗 Vehicle Performance | Need to identify high-performing vehicle categories |
+| 👨‍✈️ Driver Analysis | Monitoring driver ratings and service quality |
+| 📈 Demand Monitoring | Understanding ride demand trends over time |
 
 ---
 
@@ -48,43 +48,33 @@ The company wants to leverage **SQL Analytics** and **Power BI Dashboards** to u
 ## 🔍 Booking & Operational Analysis
 
 ### 1️⃣ Retrieve all successful bookings
-
 Understand completed ride performance and operational success.
 
 ### 2️⃣ Find the average ride distance for each vehicle type
-
 Analyze customer travel behavior across ride categories.
 
 ### 3️⃣ Get the total number of cancelled rides by customers
-
 Measure customer-side cancellation trends.
 
 ### 4️⃣ List the top 5 customers who booked the highest number of rides
-
 Identify highly engaged and valuable customers.
 
 ### 5️⃣ Get the number of rides cancelled by drivers due to personal and car-related issues
-
 Evaluate operational and driver-related challenges.
 
 ### 6️⃣ Find the maximum and minimum driver ratings for Prime Sedan bookings
-
 Track service quality for premium ride categories.
 
 ### 7️⃣ Retrieve all rides where payment was made using UPI
-
 Analyze preferred digital payment methods.
 
 ### 8️⃣ Find the average customer rating per vehicle type
-
 Compare customer satisfaction across services.
 
 ### 9️⃣ Calculate the total booking value of rides completed successfully
-
 Measure total business revenue generated.
 
 ### 🔟 List all incomplete rides along with the reason
-
 Identify operational gaps and ride failure causes.
 
 ---
@@ -93,18 +83,18 @@ Identify operational gaps and ride failure causes.
 
 ## 📈 Dashboard KPIs & Visualizations
 
-| Dashboard Metric                           | Business Purpose                        |
-| ------------------------------------------ | --------------------------------------- |
-| 🚖 Ride Volume Over Time                   | Analyze booking growth trends           |
-| 📌 Booking Status Breakdown                | Compare successful vs cancelled rides   |
-| 🏆 Top 5 Vehicle Types by Ride Distance    | Identify high-usage vehicle categories  |
-| ⭐ Average Customer Ratings by Vehicle Type | Measure service quality                 |
-| ❌ Cancelled Ride Reasons                   | Detect major cancellation causes        |
-| 💳 Revenue by Payment Method               | Track revenue channels                  |
-| 👑 Top 5 Customers by Total Booking Value  | Identify high-value customers           |
-| 🛣 Ride Distance Distribution Per Day      | Understand travel patterns              |
-| 🚗 Driver Ratings Distribution             | Evaluate driver performance             |
-| ⚖ Customer vs Driver Ratings               | Compare service experience perspectives |
+| Dashboard Metric | Business Purpose |
+|---|---|
+| 🚖 Ride Volume Over Time | Analyze booking growth trends |
+| 📌 Booking Status Breakdown | Compare successful vs cancelled rides |
+| 🏆 Top 5 Vehicle Types by Ride Distance | Identify high-usage vehicle categories |
+| ⭐ Average Customer Ratings by Vehicle Type | Measure service quality |
+| ❌ Cancelled Ride Reasons | Detect major cancellation causes |
+| 💳 Revenue by Payment Method | Track revenue channels |
+| 👑 Top 5 Customers by Total Booking Value | Identify high-value customers |
+| 🛣 Ride Distance Distribution Per Day | Understand travel patterns |
+| 🚗 Driver Ratings Distribution | Evaluate driver performance |
+| ⚖ Customer vs Driver Ratings | Compare service experience perspectives |
 
 ---
 
@@ -112,12 +102,12 @@ Identify operational gaps and ride failure causes.
 
 <div align="center">
 
-| Technology     | Purpose                    |
-| -------------- | -------------------------- |
-| 🗃 SQL         | Data Extraction & Analysis |
-| 📊 Power BI    | Dashboard & Visualization  |
-| 📑 Excel / CSV | Dataset Source             |
-| 📈 DAX         | KPI Calculations           |
+| Technology | Purpose |
+|---|---|
+| 🗃 SQL | Data Extraction & Analysis |
+| 📊 Power BI | Dashboard & Visualization |
+| 📑 Excel / CSV | Dataset Source |
+| 📈 DAX | KPI Calculations |
 
 </div>
 
@@ -127,13 +117,13 @@ Identify operational gaps and ride failure causes.
 
 After implementing this solution, the company will be able to:
 
-* 📌 Improve operational efficiency
-* 📌 Increase customer satisfaction
-* 📌 Reduce cancellation rates
-* 📌 Monitor revenue trends effectively
-* 📌 Enhance driver performance tracking
-* 📌 Enable data-driven business decisions
-* 📌 Build scalable analytical dashboards
+- 📌 Improve operational efficiency
+- 📌 Increase customer satisfaction
+- 📌 Reduce cancellation rates
+- 📌 Monitor revenue trends effectively
+- 📌 Enhance driver performance tracking
+- 📌 Enable data-driven business decisions
+- 📌 Build scalable analytical dashboards
 
 ---
 
