@@ -35,11 +35,8 @@
 - [Key Business Insights](#-key-business-insights)
 - [KPIs Tracked](#-kpis-tracked)
 - [Key Findings](#-key-findings)
-- [Folder Structure](#-folder-structure)
 - [Screenshots](#-screenshots)
-- [Setup & Usage](#-setup--usage)
 - [Future Improvements](#-future-improvements)
-- [Conclusion](#-conclusion)
 
 ---
 
