@@ -17,7 +17,8 @@
 
 <br/>
 
-![Dashboard Preview](screenshots/overall_dashboard.png)
+<img width="865" height="480" alt="overall_dashboard" src="https://github.com/user-attachments/assets/3626a18c-e01c-4354-abef-7dba6db233c5" />
+
 
 ---
 
@@ -246,31 +247,8 @@ The Power BI report is structured across **5 dedicated pages**, each targeting a
 5. **E-Bike and Prime Sedan** deliver the best combination of booking value and distance efficiency
 6. **Customer loyalty is concentrated** — a small segment drives outsized revenue, making retention programs a high-ROI opportunity
 
----
 
-## 🗂 Folder Structure
 
-```
-ola-ride-booking-analytics/
-│
-├── 📁 data/
-│   └── ola_bookings.csv              # Raw dataset
-│
-├── 📁 sql/
-│   └── ola.sql                       # All SQL queries and views
-│
-├── 📁 powerbi/
-│   └── ola_dashboard.pbix            # Power BI report file
-│
-├── 📁 screenshots/
-│   ├── overall_dashboard.png
-│   ├── vehicle_type.png
-│   ├── revenue.png
-│   ├── cancellation.png
-│   └── ratings.png
-│
-└── README.md
-```
 
 ---
 
@@ -279,25 +257,24 @@ ola-ride-booking-analytics/
 <table>
   <tr>
     <td align="center"><strong>Overall Dashboard</strong></td>
-    <td align="center"><strong>Vehicle Type Analysis</strong></td>
   </tr>
   <tr>
-    <td><img src="screenshots/overall_dashboard.png" alt="Overall" width="400"/></td>
-    <td><img src="screenshots/vehicle_type.png" alt="Vehicle Type" width="400"/></td>
+    <td><img src="<img width="865" height="480" alt="overall_dashboard" src="https://github.com/user-attachments/assets/4385a0ad-ac35-47b8-a2ef-f7e2057f2c9f" />
+" alt="Overall" width="400"/></td>
   </tr>
   <tr>
     <td align="center"><strong>Revenue Dashboard</strong></td>
-    <td align="center"><strong>Cancellation Analysis</strong></td>
   </tr>
   <tr>
-    <td><img src="screenshots/revenue.png" alt="Revenue" width="400"/></td>
-    <td><img src="screenshots/cancellation.png" alt="Cancellation" width="400"/></td>
+    <td><img src="<img width="882" height="496" alt="revenue" src="https://github.com/user-attachments/assets/9dfd8993-7903-430d-bef2-a1c5c6b845d3" />
+" alt="Revenue" width="400"/></td>
   </tr>
   <tr>
     <td align="center" colspan="2"><strong>Ratings Dashboard</strong></td>
   </tr>
   <tr>
-    <td align="center" colspan="2"><img src="screenshots/ratings.png" alt="Ratings" width="400"/></td>
+    <td align="center" colspan="2"><img src="<img width="884" height="488" alt="ratings" src="https://github.com/user-attachments/assets/4724fd23-2ebf-4864-b6dc-58b91b8089ca" />
+" alt="Ratings" width="400"/></td>
   </tr>
 </table>
 
